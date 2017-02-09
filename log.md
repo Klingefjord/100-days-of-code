@@ -1,5 +1,6 @@
 
-### Day 0 27/1
+### Day 0 
+### 27/1
 
 **Today's Progress**: Finished elon tribute page
 **Thoughts:** Learned some CSS positioning
@@ -7,7 +8,8 @@
 
 
 
-### Day 2 28/1
+### Day 2 
+### 28/1
 
 **Today's Progress**: Began the HTML/CSS of the quote page.
 **Thoughts:** css sucks
@@ -15,7 +17,8 @@
 
 
 
-### Day 3 29/1
+### Day 3 
+### 29/1
 
 **Today's Progress**: Finished the basic layout, changed background, set up js file and tried to get api to work.
 **Thoughts:** Need to learn more about api requests & ajax.
@@ -23,7 +26,8 @@
 
 
 
-### Day 4 30/1
+### Day 4 
+### 30/1
 
 **Today's Progress**: Got the quote api to work, almost understand $.ajax method.
 **Thoughts:** Almost there with the twitter as well. Hope I’m not cheating.
@@ -31,7 +35,8 @@
 
 
 
-### Day 5 31/1
+### Day 5 
+### 31/1
 
 **Today's Progress**: Cleaned up code in midpoint, fiddled with quote generator. Some css fixes and its done.
 **Thoughts:** Called christian from democracy.digital. Really out of my comfort zone, yeah!
@@ -40,7 +45,8 @@ Didn’t really manage to put quotes into an array to reduce load time, but meh,
 
 
 
-### Day 6 1/2
+### Day 6 
+### 1/2
 
 **Today's Progress**: Finished quote generator thing!
 **Thoughts:** Still struggling with basic css, which is frustrating. Did not turn out quite as I expected, but I think I shouldn’t stand still too long when it comes to these things
@@ -48,7 +54,8 @@ Didn’t really manage to put quotes into an array to reduce load time, but meh,
 
 
 
-### Day 7 2/2
+### Day 7 
+### 2/2
 
 **Today's Progress**: Began working on the weather app. Coded snake game :)
 **Thoughts:** Struggling with CSS, need to learn bootstrap. Nailed the api work like a boss though!
@@ -56,7 +63,8 @@ Didn’t really manage to put quotes into an array to reduce load time, but meh,
 
 
 
-### Day 8 3/2
+### Day 8 
+### 3/2
 
 **Today's Progress**: Made snake game nice
 **Thoughts:** I learned I have a tendency to give up on functions if I don’t deem them to be too important. Not good, I will challenge myself to do them.
@@ -65,7 +73,8 @@ Will try to do space invaders next.
  
  
  
-### Day 9 4/2
+### Day 9 
+### 4/2
 
 **Today's Progress**: Finished weather app.
 **Thoughts:** Starting to feel quite confident with general JS! Need to really grind html and css for a while I think
@@ -73,7 +82,8 @@ Will try to do space invaders next.
 
 
 
-### Day 10 5/2
+### Day 10 
+### 5/2
 
 **Today's Progress**: Worked on a basic alien invaders game.
 **Thoughts:** Got stuck amongst the algorithm challenges in the freecodecamp map and could not figure lcm out, not even with external resources, really frustrating.
@@ -81,7 +91,8 @@ Will try to do space invaders next.
 
 
 
-### Day 11 6/2
+### Day 11 
+### 6/2
 
 **Today's Progress**: Finished debugging weather app & published it
 **Thoughts:** Nice!
@@ -89,7 +100,8 @@ Will try to do space invaders next.
 
 
 
-### Day 12 7/2
+### Day 12 
+### 7/2
 
 **Today's Progress**: Worked on wikipedia app
 **Thoughts:** Learned a bit about api, json and object handling.
@@ -97,14 +109,16 @@ Will try to do space invaders next.
 
 
 
-### Day 13 8/2
+### Day 13 
+### 8/2
 
 **Today's Progress**: Worked on wikipedia app
 **Thoughts:** Learned a bit about api, json and object handling.
 **Link to work:** [Wikipedia viewer]
 
 
-### Day 14 9/2
+### Day 14 
+### 9/2
 
 **Today's Progress**: Worked on wikipedia app; functionality is done.
 **Thoughts:** Just need to do the css
