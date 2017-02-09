@@ -104,8 +104,7 @@ Will try to do space invaders next.
 **Link to work:** [Wikipedia viewer]
 
 
-
- ### Day 14 9/2
+### Day 14 9/2
 
 **Today's Progress**: Worked on wikipedia app; functionality is done.
 **Thoughts:** Just need to do the css
