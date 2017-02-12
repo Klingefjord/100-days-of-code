@@ -124,4 +124,17 @@ Will try to do space invaders next.
 **Thoughts:** Just need to do the css
 **Link to work:** [Wikipedia viewer]
 
+### Day 15
+### 10/2
+
+**Today's Progress**: Styled wikipedia app, learned about flexbox.
+**Thoughts:** Need to practice more css
+**Link to work:** [Wikipedia viewer]
+
+### Day 16
+### 12/2
+
+**Today's Progress**: Did some algorithm challenges for a chagne. 
+**Thoughts:** Managed to solve one I have been stuck with for a while, which was a great feeling!
+**Link to work:** https://www.freecodecamp.com/challenges/everything-be-true
 
