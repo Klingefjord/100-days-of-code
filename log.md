@@ -1,5 +1,5 @@
 
-### Day 0 
+### Day 1 
 ### 27/1
 
 **Today's Progress**: Finished elon tribute page
