@@ -3,7 +3,9 @@
 ### 27/1
 
 **Today's Progress**: Finished elon tribute page
+
 **Thoughts:** Learned some CSS positioning
+
 **Link to work:** [Tribute page]https://codepen.io/Klingefjord/pen/oBoBgd
 
 
@@ -12,7 +14,9 @@
 ### 28/1
 
 **Today's Progress**: Began the HTML/CSS of the quote page.
+
 **Thoughts:** css sucks
+
 **Link to work:** [Quote generator]https://codepen.io/Klingefjord/pen/vgRXYV
 
 
@@ -21,7 +25,9 @@
 ### 29/1
 
 **Today's Progress**: Finished the basic layout, changed background, set up js file and tried to get api to work.
+
 **Thoughts:** Need to learn more about api requests & ajax.
+
 **Link to work:** [Quote generator]https://codepen.io/Klingefjord/pen/vgRXYV
 
 
@@ -134,7 +140,14 @@ Will try to do space invaders next.
 ### Day 16
 ### 12/2
 
-**Today's Progress**: Did some algorithm challenges for a chagne. 
+**Today's Progress**: Did some algorithm challenges for a change. 
 **Thoughts:** Managed to solve one I have been stuck with for a while, which was a great feeling!
 **Link to work:** https://www.freecodecamp.com/challenges/everything-be-true
+
+### Day 17
+### 13/2
+
+**Today's Progress**: Finished wikipedia app and did some algorithm challenges 
+**Thoughts:** I feel like I'm making slow but steady progress in regards to css.
+**Link to work:** https://codepen.io/Klingefjord/pen/YNBGNb
 
