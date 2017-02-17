@@ -148,6 +148,17 @@ Will try to do space invaders next.
 ### 13/2
 
 **Today's Progress**: Finished wikipedia app and did some algorithm challenges 
+
 **Thoughts:** I feel like I'm making slow but steady progress in regards to css.
+
 **Link to work:** https://codepen.io/Klingefjord/pen/YNBGNb
+
+### Day 18
+### 17/2
+
+**Today's Progress**: Learned some php and worked with regular expressions.
+
+**Thoughts:** Took a break from the standard flow of things. Got a bit intimidated by the big PWA task.
+
+**Link to work:** https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
 
