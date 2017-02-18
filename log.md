@@ -162,3 +162,12 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
 
+### Day 19
+### 18/2
+
+**Today's Progress**: Started building portfolio page with an html template.
+
+**Thoughts:** I'm not feeling productive nor motivated at all. I suppose this stems from my inability to deal with the PWA thing. Also, I'm very tired. Learned some bootstrap and javascript.
+
+**Link to work:** https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
+
