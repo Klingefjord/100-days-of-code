@@ -171,3 +171,12 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
 
+### Day 20
+### 19/2
+
+**Today's Progress**: Finished my portfolio and published it.
+
+**Thoughts:** I really don't like css - it's simply not fun. Managed to power through it though, which feels quite good.
+
+**Link to work:** klingefjord.com
+
