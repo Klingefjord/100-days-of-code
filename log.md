@@ -213,12 +213,21 @@ Will try to do space invaders next.
 
 **Link to work:** [flappy bird game]
 
-### Day 21
+### Day 22
 ### 27/2
 
 **Today's Progress**: Worked some on Twitch app.
 
 **Thoughts:** FINALLY back on track! Had had a lot of anxiety last week, felt really good to just sit down and do this. Also, feels like I'm making progress in regards to CSS.
+
+**Link to work:** [twitch app]
+
+### Day 23
+### 5/3
+
+**Today's Progress**: Worked some on Twitch app.
+
+**Thoughts:** Pomodoro tecnique was really efficient.
 
 **Link to work:** [twitch app]
 
