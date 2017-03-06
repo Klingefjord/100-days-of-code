@@ -231,3 +231,12 @@ Will try to do space invaders next.
 
 **Link to work:** [twitch app]
 
+### Day 24
+### 6/3
+
+**Today's Progress**: Worked on the flappy bird game. Made hover function, score counters and some other tweaks.
+
+**Thoughts:** Really like diving up this time into two pomodoros. Feels great to be done with everything before leaving school. Also felt great coming up with a problem (the hover function), thinking about how it could be implemented in theory, and then implementing it.
+
+**Link to work:** [flappy bird]
+
