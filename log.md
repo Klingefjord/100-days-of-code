@@ -240,3 +240,13 @@ Will try to do space invaders next.
 
 **Link to work:** [flappy bird]
 
+
+### Day 25
+### 7/3
+
+**Today's Progress**: Worked on the flappy bird game. Made hover function work when game is running, added enter button functionality, tried to make pipes smaller.
+
+**Thoughts:** Got stuck with pipe thingy and could not figure it out. That and the fact that I ran into a bug when quitting made me feel bad.
+
+**Link to work:** [flappy bird]
+
