@@ -250,3 +250,13 @@ Will try to do space invaders next.
 
 **Link to work:** [flappy bird]
 
+
+### Day 26
+### 8/3
+
+**Today's Progress**: Sort of finished flappy bird game. Made the nav bar work in twitch app.
+
+**Thoughts:** Managed to come up with a new algorithm for pipes, worked like a charm!
+
+**Link to work:** [flappy bird] [twitch app]
+
