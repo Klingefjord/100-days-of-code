@@ -260,3 +260,13 @@ Will try to do space invaders next.
 
 **Link to work:** [flappy bird] [twitch app]
 
+
+### Day 27
+### 9/3
+
+**Today's Progress**: Worked on twitch app.
+
+**Thoughts:** Gave up on some functions I didn't deem necessary. Unfocused, should have stayed in school.
+
+**Link to work:** [twitch app]
+
