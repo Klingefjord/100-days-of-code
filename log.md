@@ -270,3 +270,15 @@ Will try to do space invaders next.
 
 **Link to work:** [twitch app]
 
+
+### Day 28
+### 11/3
+
+**Today's Progress**: Worked on the algortithm challenges
+
+**Thoughts:** Still stuck, but I'm getting the hang of regular expressions
+
+**Link to work:** https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
+
+
+
