@@ -281,4 +281,12 @@ Will try to do space invaders next.
 **Link to work:** https://www.freecodecamp.com/challenges/validate-us-telephone-numbers
 
 
+### Day 29
+### 12/3
+
+**Today's Progress**: Worked on the algortithm challenges
+
+**Thoughts:** Nailed the phone number challenge, made some progress on the record collection
+
+**Link to work:** https://www.freecodecamp.com/challenges/record-collection
 
