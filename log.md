@@ -291,7 +291,7 @@ Will try to do space invaders next.
 **Link to work:** https://www.freecodecamp.com/challenges/record-collection
 
 
-### Day 29
+### Day 30
 ### 14/3
 
 **Today's Progress**: Worked on the algortithm challenges
@@ -301,8 +301,8 @@ Will try to do space invaders next.
 **Link to work:** https://www.freecodecamp.com/challenges/record-collection
 
 
-### Day 29
-### 14/3
+### Day 31 (1 MONTH!!!)
+### 15/3
 
 **Today's Progress**: Worked on the symmetric difference challenge
 
