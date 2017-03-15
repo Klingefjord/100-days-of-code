@@ -290,3 +290,23 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/record-collection
 
+
+### Day 29
+### 14/3
+
+**Today's Progress**: Worked on the algortithm challenges
+
+**Thoughts:** Nailed the the record collection, started working on the symmetric difference challenge
+
+**Link to work:** https://www.freecodecamp.com/challenges/record-collection
+
+
+### Day 29
+### 14/3
+
+**Today's Progress**: Worked on the symmetric difference challenge
+
+**Thoughts:** Made some progress, but this is a hard one. Starting to think that these challenges are much more fun than doing css things. Maybe I should actually reconsider the front-end path.
+
+**Link to work:** https://www.freecodecamp.com/challenges/symmetric-difference
+
