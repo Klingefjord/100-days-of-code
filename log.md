@@ -310,3 +310,12 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/symmetric-difference
 
+### Day 32
+### 16/3
+
+**Today's Progress**: Finished the symmetric difference challenge
+
+**Thoughts:** NAILED IT!
+
+**Link to work:** https://www.freecodecamp.com/challenges/symmetric-difference
+
