@@ -319,3 +319,11 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/symmetric-difference
 
+### Day 33
+### 19/3
+
+**Today's Progress**: Finished the exact change challenge
+
+**Thoughts:** Nice with the wombat cohort, looking forward to those challenges. Also decided to focus a bit more on general CS concepts to widen my horizon. Will set up a curriculum for myself.
+
+**Link to work:** https://www.freecodecamp.com/challenges/exact-change
