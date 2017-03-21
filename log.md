@@ -327,3 +327,12 @@ Will try to do space invaders next.
 **Thoughts:** Nice with the wombat cohort, looking forward to those challenges. Also decided to focus a bit more on general CS concepts to widen my horizon. Will set up a curriculum for myself.
 
 **Link to work:** https://www.freecodecamp.com/challenges/exact-change
+
+### Day 33
+### 21/3
+
+**Today's Progress**: Did a css painting and started working on next freecodecamp algortithm challenge
+
+**Thoughts:** Very nice to have a scheduele to follow, saw a good one at freecodecamp that I will look further into come the end of this week. p1xt!
+
+**Link to work:** https://www.freecodecamp.com/challenges/inventory-update
