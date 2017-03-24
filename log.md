@@ -336,3 +336,12 @@ Will try to do space invaders next.
 **Thoughts:** Very nice to have a scheduele to follow, saw a good one at freecodecamp that I will look further into come the end of this week. p1xt!
 
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
+
+### Day 33
+### 21/3
+
+**Today's Progress**: Thought about freecodecamp algortithm challenge
+
+**Thoughts:** Will try to stick to p1xt scheduele. Annoying not to move forward today!
+
+**Link to work:** https://www.freecodecamp.com/challenges/inventory-update
