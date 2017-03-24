@@ -337,8 +337,8 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
 
-### Day 33
-### 21/3
+### Day 34
+### 24/3
 
 **Today's Progress**: Thought about freecodecamp algortithm challenge
 
