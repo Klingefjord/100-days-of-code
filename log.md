@@ -345,3 +345,12 @@ Will try to do space invaders next.
 **Thoughts:** Will try to stick to p1xt scheduele. Annoying not to move forward today!
 
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
+
+### Day 35
+### 24/3
+
+**Today's Progress**: Finished the twitch app
+
+**Thoughts:** Looking forward to the coming projects; also, will try to learn more css through the css paintings
+
+**Link to work:** https://codepen.io/Klingefjord/pen/WpKpXG
