@@ -328,7 +328,7 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/exact-change
 
-### Day 33
+### Day 34
 ### 21/3
 
 **Today's Progress**: Did a css painting and started working on next freecodecamp algortithm challenge
@@ -337,7 +337,7 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
 
-### Day 34
+### Day 35
 ### 24/3
 
 **Today's Progress**: Thought about freecodecamp algortithm challenge
@@ -346,7 +346,7 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
 
-### Day 35
+### Day 36
 ### 25/3
 
 **Today's Progress**: Finished the twitch app
@@ -356,11 +356,20 @@ Will try to do space invaders next.
 **Link to work:** https://codepen.io/Klingefjord/pen/WpKpXG
 
 
-### Day 36
-### 24/3
+### Day 37
+### 26/3
 
 **Today's Progress**: Nailed the inventoryUpdate challenge
 
 **Thoughts:** Not too much left on the front end map :)
 
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
+
+### Day 36
+### 28/3
+
+**Today's Progress**: Did a basilica vector css image
+
+**Thoughts:** Nice to do something small for a change
+
+**Link to work:** https://codepen.io/Klingefjord/pen/EWeWWw
