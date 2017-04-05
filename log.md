@@ -373,3 +373,21 @@ Will try to do space invaders next.
 **Thoughts:** Nice to do something small for a change
 
 **Link to work:** https://codepen.io/Klingefjord/pen/EWeWWw
+
+### Day 36
+### 4/4
+
+**Today's Progress**: Almost done with the calculator
+
+**Thoughts:** Still need to tweak some things...
+
+**Link to work:** [calculator]
+
+### Day 37
+### 5/4
+
+**Today's Progress**: Worked with the calculator
+
+**Thoughts:** Did not make any progress, got stuck!
+
+**Link to work:** [calculator]
