@@ -365,6 +365,7 @@ Will try to do space invaders next.
 
 **Link to work:** https://www.freecodecamp.com/challenges/inventory-update
 
+
 ### Day 36
 ### 28/3
 
@@ -373,6 +374,7 @@ Will try to do space invaders next.
 **Thoughts:** Nice to do something small for a change
 
 **Link to work:** https://codepen.io/Klingefjord/pen/EWeWWw
+
 
 ### Day 36
 ### 4/4
@@ -383,6 +385,7 @@ Will try to do space invaders next.
 
 **Link to work:** [calculator]
 
+
 ### Day 37
 ### 5/4
 
@@ -391,3 +394,85 @@ Will try to do space invaders next.
 **Thoughts:** Did not make any progress, got stuck!
 
 **Link to work:** [calculator]
+
+
+### Day 38
+### 6/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
+### Day 39
+### 7/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
+### Day 40
+### 8/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
+### Day 41
+### 9/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
+### Day 42
+### 10/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
+### Day 43
+### 11/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
+### Day 44
+### 12/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
+### Day 45
+### 13/4
+
+**Today's Progress**: Can't remember
+
+**Thoughts:** It's now May and I have been very bad at logging my progress in here. Will try to get back into the habit. I have been working with the Mario project, the calculator, the pomodoro clock and some algorithms. I will fill in 10 days and count from there.
+
+**Link to work:** [calculator]
+
+
